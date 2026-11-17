@@ -41,3 +41,9 @@ my_age = 22
 my_institute = "Python Course"
 my_roll = 101
 ```
+
+## Data Type
+- integer -> int
+- string -> str
+- float -> float
+- boolean -> bool
